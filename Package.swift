@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SmartdigimktSDK",
-            url: "https://sz-kuying-sdk.oss-accelerate.aliyuncs.com/pkgs/SDK/iOS_v2/cn/v6.5.80/KuYingSDK.zip",
-            checksum: "2303df9ccc53b9e3e49f88a7f0d76b4a30bb322316b881a6db0f0556f5c59a57"
+            url: "https://topon-sdk-release.oss-cn-hangzhou.aliyuncs.com/Temp/juhesdk/KuYingSDK-6.5.80.zip",
+            checksum: "ac3daf27a5e39c6088dd5c9c8641dd33a05f190622e127436f6c8436007cde5c"
         )
     ]
 )
